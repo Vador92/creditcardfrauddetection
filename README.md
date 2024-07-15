@@ -1,7 +1,7 @@
-# creditcardfrauddetection
+# Venmo Credit Card Fraud Detection
 
 ## Where did we get the data set?
-- Using this kaggle link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+- Using this github repo link: https://github.com/sa7mon/venmo-data
 
 
 ## What database are we using to store data?
@@ -12,6 +12,8 @@
 - jupyter notebook
 
 ## Installing Requirements and Pausing Requirements
+- python -m venv venv
+- venv\Scripts\Activate
 - pip install -r requirements.txt
 - pip freeze > requirements.txt
 
