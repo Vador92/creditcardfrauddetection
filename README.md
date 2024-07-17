@@ -1,4 +1,4 @@
-# Venmo Credit Card Fraud Detection
+# Venmo Fraud Detection
 
 ## Where did we get the data set?
 - Using this github repo link: https://github.com/sa7mon/venmo-data
