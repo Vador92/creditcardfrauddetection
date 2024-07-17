@@ -1,4 +1,4 @@
-# Venmo Fraud Detection
+# Venmo Fraud Detection (Varun/Nihar)
 
 ## Where did we get the data set?
 - Using this github repo link: https://github.com/sa7mon/venmo-data
